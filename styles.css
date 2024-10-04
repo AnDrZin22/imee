@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.chat-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #0038A8; /* Azul do Vasco */
+}
+
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.bot {
+    background-color: #e0e0e0;
+}
+
+.user {
+    background-color: #d1e7dd;
+}
+
+.player-image {
+    display: block;
+    margin: 10px auto;
+    max-width: 100%;
+    border-radius: 5px;
+}
